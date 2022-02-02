@@ -17,7 +17,7 @@
 				<br>
 				<br>Although those were nice,  we can't avoid negative stuff occurring like, the multiple factors affecting students and their submissions and attendance. Being hit of the so called tamaritis. Being so tired of oeverything, mentally and physically, getting way too much comfort, getting distracted. Some students failing to apply academic integrity. An unusual study environment and so much more.
 				<br><br><br><br><br>
-				<br> Luckliy there is an image in google to probably add or sum up this page which should be seen below
+				<br> Luckliy there is an image in google to probably add or sum up this page which should be seen below, here is the reference https://environmental-conscience.com/studying-online-pros-cons
 				<br>        <img border= "0" alt="Pros and Cons from google" src="../images/prosAndCons.png" width="660px"height="290px";> </p>
 		<audio controls autoplay loop> 
 			<source src="../mmfiles/bossaNova.ogg" type="audio/ogg">
@@ -34,9 +34,9 @@
 			<a href="fellowpage.html"><img border="0" alt="Insights of my fellow scholars (image:Group Icon)" src="../images/GroupIcon.png" width="250"height="250"></a>
 		 </div>
 		<div class="Socials">
-			<a href="https://www.facebook.com/boeingcabautan">					<div class="fb"></div></a>
-			<a href="https://www.instagram.com/eye_prob/" >						<div class="insta"></div></a>
-			<a href="https://www.youtube.com/channel/UC56DTNd_ZoSPtUGGFxLns3A" ><div class="youtube"></div></a>
+			<a href="https://www.facebook.com/boeingcabautan">					<div class="fb"><img class="imagefb" src="../images/FBblack.png"></div></a>
+			<a href="https://www.instagram.com/eye_prob/" >						<div class="insta"><img class="imageinsta" src="../images/Instablack.png"></div></a>
+			<a href="https://www.youtube.com/channel/UC56DTNd_ZoSPtUGGFxLns3A" ><div class="youtube"><img class="imageyt" src="../images/YTblack.png"></div></a>
 		</div>
 	</nav>
 </body>

@@ -5,10 +5,8 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<header>
         <h1> A Scholar's Life in Quarantine </h1>
         <h4>Made by: Randall Maurice Cabautan, from 9 Neon</h4>
-	</header>
     <br>
     <div id="ContentScreen1">
         <div id="HomepageH1">
@@ -36,15 +34,15 @@
         <div class="Pages">
             <a href="htdocs\mypage.html"><img border="0" alt="click here to see my opinions"          src="images/StudentIcon.png" width="250px" height="250px"></a>
             <br>
-            <a href="htdocs\fellowpage.html"><img border="0" alt="click here to see other's opinions" src="images/GroupIcon.png" width="250px" height="250px"></a>
+            <a href="htdocs\fellowpage.html"><img border="0" alt="click here to see other's opinions" src="images/GroupIcon.png"   width="250px" height="250px"></a>
             <br>
-            <a href="htdocs\pcpage.html"><img border="0" alt="click here for Pro's and Con's"         src="images/IdeaIcon.png" width="250px" height="250px"></a>
+            <a href="htdocs\pcpage.html"><img border="0" alt="click here for Pro's and Con's"         src="images/IdeaIcon.png"    width="250px" height="250px"></a>
 			<br>
 		</div>
 		<div class="Socials">
-			<a href="https://www.facebook.com/boeingcabautan">					<div class="fb"></div></a>
-			<a href="https://www.instagram.com/eye_prob/" >						<div class="insta"></div></a>
-			<a href="https://www.youtube.com/channel/UC56DTNd_ZoSPtUGGFxLns3A" ><div class="youtube"></div></a>
+			<a href="https://www.facebook.com/boeingcabautan">					<div class="fb"><img class="imagefb" src="images/FBblack.png"></div></a>
+			<a href="https://www.instagram.com/eye_prob/" >						<div class="insta"><img class="imageinsta" src="images/Instablack.png"></div></a>
+			<a href="https://www.youtube.com/channel/UC56DTNd_ZoSPtUGGFxLns3A" ><div class="youtube"><img class="imageyt" src="images/YTblack.png"></div></a>
 		</div>
 	</nav>
 		

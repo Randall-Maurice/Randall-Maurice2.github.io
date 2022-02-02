@@ -1,6 +1,6 @@
-html {background-color: LightSkyBlue;background: linear-gradient(135deg,bisque,linen,lightblue,skyblue,dodgerblue); background-size:400% 400%; animation:change 5s ease-in-out infinite}}
-h1 {font-family:'Times New Roman';border-bottom:5px groove gold;border-right:5px groove gold;display:inline-block; margin: 0;}
-h4{border-bottom:5px dotted gold;margin:0; width:100%;}
+html {background-color: #660066;background: linear-gradient(135deg,#660066,#0099CC); background-size: 400% 400%; animation:change 5s ease-in-out infinite}
+h1 {font-family:'Times New Roman';color: white; border-bottom:5px groove gold;border-right:5px groove gold;display:inline-block; margin: 0;}
+h4{border-bottom:5px dotted gold;margin:0; width:100%; color:white;}
 Body {margin: 0;padding: 0;}
 p {text-align: justify;padding:15px;}
 a {margin:0;}
@@ -12,13 +12,13 @@ audio {margin-left:auto;margin-right:auto; display:none;}
 	100% {background-position: 0 50%;}
 }
 
-#HomepageH1 {margin:0;padding: 0;background-color: rgba(255,255,255,0.9); border: 3px black solid; font-family: 'Brush Script MT', cursive; }
-#ContentScreen1 {float: left;height:1000px;width: 700px; background-color: rgba(255,255,215,0.9); border:3px black solid;}
-#WelcomeText {font-family:cursive;}
-#deletepls {display:block; margin-left:auto; margin-right:auto;}
+#PCpageH1 {margin:0;padding:0;background-color: rgba(255,255,255,0.9); border: 3px black solid;font-family: 'Brush Script MT';}
+#ContentScreen1 {float: left;width: 700px; height:1000px; background-color: rgba(255,255,215,0.5); border:3px black solid;}
+#mytext {font-family:cursive;}
+
 
 .Pages {Float: left;
-        height:910px;
+        height:900px;
         width: 300px;
         background: #fff;
 		border:3px grey solid;}
@@ -40,7 +40,12 @@ audio {margin-left:auto;margin-right:auto; display:none;}
 .imagefb	{display:none;}
 .imageinsta	{display:none;}
 .imageyt	{display:none;}
-
+.home {animation-timing-function: ease;}
 .fb:hover .imagefb{display:block; width:25px; height:25px;}
 .insta:hover .imageinsta{display:block;width:25px; height:25px;}
 .youtube:hover .imageyt{display:block;width:25px; height:25px;}
+.home:hover {animation: slide 3s infinite;}
+
+@keyframes slide{
+	from {top:0px;}
+	to {top:900px;}

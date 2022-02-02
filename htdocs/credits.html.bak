@@ -1,0 +1,43 @@
+<html>
+<head> 
+    <title> A Scholar's Life in Quarantine </title>
+    <link rel="stylesheet" type="text/css" href="../css/cstyle.css">
+</head>
+<body>
+        <h1> A Scholar's Life in Quarantine </h1>
+        <h4>Made by: Randall Maurice Cabautan, from 9 Neon</h4>
+    <br>
+    <div id="ContentScreen1">
+        <div id="HomepageH1">
+            <h2>Welcome To Le Credits</h2>
+        </div>
+        <p id="WelcomeText">     Hello and welcome to credits.
+		<br>Here, you will see the following people who gave their precious time to answer and share several of their opinions on online learning for 1 of my content page. Without them, I would not have another webpage as I do not know what else do I need, maybe it would be a video of some dude doing random stuff because I can't think of any other possible content to make my work meaningful and unique.
+		<br>Since you have opened and seen this page, thank you for that. This whole website is made purely of hardwork, considerations, patience and a substantial amount of restless nights trying to make this better than how it used to. A few changes are having github involved, fixed images and all the navigation/redirects, added a social media bar, added a better background and difference between home and content page, and in this updated ver there'll be animated backgrounds and effects on buttons, maybe images, and animation in this webpage.
+		<br>As you can see, there are images below. These images are the chosen avatars of people who gave responses in the <a href="htdocs\fellowpage.html">"Fellow E-Scholars' Insights"</a> webpage. Hover on each images and know more about them in a somewhat anonymous way.
+
+        <audio controls autoplay loop> 
+            <source src="mmfiles/bossaNova.ogg" type="audio/ogg">
+            <source src="mmfiles/bossaNova.mp3" type="audio/mpeg">
+			Sorry, your browser cannot support any of this audio files. Thank you and stay safe. 
+        </audio>   
+    </div>
+    <nav>
+        <div class="Pages">
+			<a href="../index.html"><img class="home" border="0" alt="Return to Homepage (Image: Home Icon)" src="../images/HomeIcon.png" width="250"height="250"></a>
+			<br>
+		</div>
+		<div class="Socials">
+			<a href="https://www.facebook.com/boeingcabautan">					<div class="fb"><img class="imagefb" src="images/FBblack.png"></div></a>
+			<a href="https://www.instagram.com/eye_prob/" >						<div class="insta"><img class="imageinsta" src="images/Instablack.png"></div></a>
+			<a href="https://www.youtube.com/channel/UC56DTNd_ZoSPtUGGFxLns3A" ><div class="youtube"><img class="imageyt" src="images/YTblack.png"></div></a>
+		</div>
+	</nav>
+		
+	
+    <br>
+       
+        
+        
+</body>
+</html>
