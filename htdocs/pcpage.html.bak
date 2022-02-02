@@ -1,0 +1,44 @@
+<html>
+<head> 
+    <title> A Scholar's Life in Quarantine </title>
+	<link rel="stylesheet" type="text/css" href="../css/pcstyle.css">
+</head>
+<body>
+    <h1> A Scholar's Life in Quarantine </h1>
+    <h4>Made by: Randall Maurice Cabautan, from 9 Neon    </h4>
+    <br>
+    <div id="ContentScreen1">
+        <div id="PCpageH1">
+            <h2>Compiled pro's and con's</h2>
+        </div>
+        <p>    What I found about online classes is that,
+				<br>
+				<br> we get to be free, we can do anything anytime, we hold our own sched if we'd like to make one aside from synchronous activities. We can also have a week breaks after quarters. We can also go out of town and still be in class as long as you have all the things needed. We can achieve many more things at the comfort at home. We can now actually think about answering/replying back to people and teachers properly and avoid miscommunication. We can also get to sleep on time if the requirements are done. We get to avoid social awkwardness. We get to seek other methods of doing stuff like watching tutorials on how to make a website using html.
+				<br>
+				<br>Although those were nice,  we can't avoid negative stuff occurring like, the multiple factors affecting students and their submissions and attendance. Being hit of the so called tamaritis. Being so tired of oeverything, mentally and physically, getting way too much comfort, getting distracted. Some students failing to apply academic integrity. An unusual study environment and so much more.
+				<br><br><br><br><br>
+				<br> Luckliy there is an image in google to probably add or sum up this page which should be seen below
+				<br>        <img border= "0" alt="Pros and Cons from google" src="../images/prosAndCons.png" width="660px"height="290px";> </p>
+		<audio controls autoplay loop> 
+			<source src="../mmfiles/bossaNova.ogg" type="audio/ogg">
+			<source src="../mmfiles/bossaNova.mp3" type="audio/mpeg">
+			Sorry, your browser cannot support any of this audio files. Thank you and stay safe. 
+		</audio>
+    </div>
+	<nav>
+		<div class="Pages">
+			<a href="../index.html"><img border="0" alt="Return to Homepage (Image: Home Icon)" src="../images/HomeIcon.png" width="250"height="250"></a>
+			<br>
+			<a href="mypage.html"><img border="0" alt="Insights given by yours truly (image: Student Icon)" src="../images/StudentIcon.png" width="250"height="250"></a>
+			<br>
+			<a href="fellowpage.html"><img border="0" alt="Insights of my fellow scholars (image:Group Icon)" src="../images/GroupIcon.png" width="250"height="250"></a>
+		 </div>
+		<div class="Socials">
+			<a href="https://www.facebook.com/boeingcabautan">					<div class="fb"></div></a>
+			<a href="https://www.instagram.com/eye_prob/" >						<div class="insta"></div></a>
+			<a href="https://www.youtube.com/channel/UC56DTNd_ZoSPtUGGFxLns3A" ><div class="youtube"></div></a>
+		</div>
+	</nav>
+</body>
+</html>
+
