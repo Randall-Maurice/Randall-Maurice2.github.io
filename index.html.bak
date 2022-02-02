@@ -5,8 +5,10 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
+	<header>
         <h1> A Scholar's Life in Quarantine </h1>
         <h4>Made by: Randall Maurice Cabautan, from 9 Neon</h4>
+	</header>
     <br>
     <div id="ContentScreen1">
         <div id="HomepageH1">

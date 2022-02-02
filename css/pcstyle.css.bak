@@ -1,7 +1,7 @@
-html {background-color: #660066;background: linear-gradient(135deg,#660066,#0099CC); background-size: 400% 400%; animation:change 5s ease-in-out infinite}
+html {animation:change 5s ease-in-out infinite}
 h1 {font-family:'Times New Roman';color: white; border-bottom:5px groove gold;border-right:5px groove gold;display:inline-block; margin: 0;}
 h4{border-bottom:5px dotted gold;margin:0; width:100%; color:white;}
-Body {margin: 0;padding: 0;}
+Body {margin: 0;padding: 0;background-color: #660066;background: linear-gradient(135deg,#660066,#0099CC); width:100%;}
 p {text-align: justify;padding:15px;}
 a {margin:0;}
 audio {margin-left:auto;margin-right:auto; display:block;}
@@ -12,7 +12,7 @@ audio {margin-left:auto;margin-right:auto; display:block;}
 	100% {background-position: 0 50%;}
 }
 
-#FpageH1 {margin:0;padding:0;background-color: rgba(255,255,255,0.9); border: 3px black solid;font-family: 'Brush Script MT';}
+#PCpageH1 {margin:0;padding:0;background-color: rgba(255,255,255,0.9); border: 3px black solid;font-family: 'Brush Script MT';}
 #ContentScreen1 {float: left;width: 700px; height:1000px; background-color: rgba(255,255,215,0.5); border:3px black solid;}
 #mytext {font-family:cursive;}
 
@@ -36,4 +36,3 @@ audio {margin-left:auto;margin-right:auto; display:block;}
 	background: url('../images/socmedSprite.png') no-repeat -82px -19px;
 	width: 25px;
 	height: 25px;}
-
